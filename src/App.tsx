@@ -26,11 +26,11 @@ export function App() {
         <form className="form" action="">
           <div className="formRow">
             <DefaultInput
-                labelText="Task"
-                id="meuInput"
-                type="text"
-                title="TITULO"
-                />
+              labelText="Task"
+              id="meuInput"
+              type="text"
+              placeholder="Digite algo"
+            />
           </div>
 
           <div className="formRow">
